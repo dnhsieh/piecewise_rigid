@@ -17,3 +17,8 @@ The file `./CUDA/compile.m` needs to be run for the first-time usage. We show th
   <img src="https://github.com/dnhsieh/piecewise_rigid/blob/main/figures/fig_square3_l2_time0p75.png" width="15%" height="15%">
   <img src="https://github.com/dnhsieh/piecewise_rigid/blob/main/figures/fig_square3_l2_time1p00.png" width="15%" height="15%">
 </p>
+
+</br>
+
+#### Reference
+* https://www.worldscientific.com/doi/abs/10.1142/9789811200137_0005
