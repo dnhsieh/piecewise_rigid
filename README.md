@@ -1,6 +1,6 @@
 ## Shape registration via piecewise rigid motion
 
-The file `./CUDA/compile.m` needs to be run for the first-time usage with `libDir` changed. We show the result of `./examples/run_square3_l2.m` in the following figures.
+The file `./CUDA/compile.m` needs to be run for the first-time usage with `libraryDir` changed. We show the result of `./examples/run_square3_l2.m` in the following figures.
 
 ### Initial shape, target shape, and deformation of registration  
 <p float="left">
