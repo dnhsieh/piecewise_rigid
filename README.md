@@ -1,4 +1,4 @@
-## Shape registration via piecewise rigid motion
+## Shape registration of multiple rigid components
 
 The file `./CUDA/compile.m` needs to be run for the first-time usage with `libraryDir` changed. We show the result of `./examples/square3_l2/run_square3_l2.m` in the following figures.
 
