@@ -2,7 +2,7 @@
 
 The file `./CUDA/compile.m` needs to be run for the first-time usage with `libraryDir` changed. We show the result of `./examples/square3_l2/run_square3_l2.m` in the following figures.
 
-### Initial shape, target shape, and deformation of registration  
+### Initial shape, target shape, and registration  
 <p float="left">
   <img src="https://github.com/dnhsieh/piecewise_rigid/blob/main/figures/fig_square3_l2_initial.png"    width="20%" height="20%"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/dnhsieh/piecewise_rigid/blob/main/figures/fig_square3_l2_target.png"     width="20%" height="20%"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
